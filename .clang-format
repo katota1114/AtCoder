@@ -1,0 +1,7 @@
+# デフォルト設定
+BasedOnStyle: LLVM
+# インデント幅
+IndentWidth: 4
+# 言語
+Language: Cpp
+Standard: Auto
